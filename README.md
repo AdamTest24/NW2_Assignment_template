@@ -12,11 +12,9 @@ The assignment for this lesson is in the form of Jupyter Notebook file(s), that 
 
 - Details of [how to submit an assignment are linked here in our tutorial video](https://www.youtube.com/watch?app=desktop&v=5UzoWit0Ewc).
  
-## Lecture and Tutor Session:
+## 1-to-1 Tutor Support Sessions:
 
-The lecture for this lesson topic will be held on **January 26th 2024, from 14:00-16:30 GMT**.
-
-The tutor session for this lesson topic will be held on **February 2nd 2024**.
+We have recently launched a new support service to students, whereby anyone with a particular query, can book a 30-minute video conference call with an L2D Tutor. [Instructions for how to enrol in a support session, can be found here.](/Tutor_Support_Booking_Instructions.pdf) Tutor availability is displayed on [this link](https://linktr.ee/L2DTutorSessions), from which support sessions can be booked.
 
 ## Forum:
 - Access to our [Forum for questions and discussions is linked](https://github.com/orgs/L2D-October2023/discussions), and we encourage you to make use of this to post questions, initiate discussions and interact with others taking the course, and the L2D team.
